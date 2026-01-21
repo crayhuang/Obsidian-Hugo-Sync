@@ -1,10 +1,11 @@
 {
-  "id": "hugo-sync",
-  "name": "Sync to Hugo",
-  "version": "0.0.3",
-  "minAppVersion": "0.12.0",
-  "description": "Sync the selected notes to Hugo blog",
-  "author": "Cray Huang",
-  "authorUrl": "https://blog.crayh.com",
-  "isDesktopOnly": true
+	"id": "obsidian-hugo-sync",
+	"name": "Hugo Sync",
+	"version": "0.0.4",
+	"minAppVersion": "0.12.0",
+	"description": "Sync Obsidian notes to Hugo blog with image support",
+	"author": "",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
 }
